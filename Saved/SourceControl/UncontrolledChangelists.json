@@ -6,7 +6,30 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"B:/Unreal/SuperHot/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
-				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"B:/Unreal/SuperHot/Content/ControlRig/Characters/Mannequins/Meshes/SKM_Quinn1.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/EL/AJRQ45PFR0G4J3PSDSAKL5.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BP_AI.uasset",
+				"D:/epic/UE_5.3/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2Y/PLHS3NUWE2YDI0V6E5DZ67.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/AnimBP.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BT_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/AIC_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BB_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BTT_GetRandomPoints.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZH/7QGKI408S9QJD4T36Z1QJH.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PP/3D4IFCMCJTTNJA8R0PIUNJ.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BTT_GetRandomPoints.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BT_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BP_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/BB_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/AnimBP_AI.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/AIC_AI.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/MK/3UP2TIUYVF0ASAE97RS1HP.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8R/CH6UZYDEA89VJJFPYQX468.uasset",
+				"B:/Unreal/SuperHot/Content/FirstPerson/Blueprints/AI/AnimBP_AI2.uasset",
+				"B:/Unreal/SuperHot/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/PA/VDGJAZBN7M68DBLJM38Q00.uasset"
 			]
 		}
 	]
