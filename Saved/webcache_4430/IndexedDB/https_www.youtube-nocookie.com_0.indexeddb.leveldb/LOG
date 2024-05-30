@@ -1,0 +1,6 @@
+2024/05/29-20:01:59.542 7298 Creating DB B:/Unreal/SuperHot/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/05/29-20:01:59.556 7298 Reusing MANIFEST B:/Unreal/SuperHot/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/29-20:21:29.160 7298 Level-0 table #5: started
+2024/05/29-20:21:29.199 7298 Level-0 table #5: 1167 bytes OK
+2024/05/29-20:21:29.201 7298 Delete type=0 #3
+2024/05/29-20:21:29.206 7298 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
